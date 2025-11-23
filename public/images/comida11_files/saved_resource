@@ -1,0 +1,43 @@
+
+var ftGUID_9331301="641987B30C840A";
+var ftConfID_9331301="0";
+var ftParams_9331301="ftOBA=1&ft_domain=www.tripadvisor.es&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.tripadvisor.es%2F&gdpr=1&gdpr_consent=CQbVoRgQbVoRgAcABBESCGFsAP_gAEPgACiQLxtR_C5ebWli-TZUIbtkaYwP55gj4kQhBgaIkWwFwBOG7BgGB2EwNARYJiACGBAAkiDBAQNlHABUAQAAAIgBiSCMYEyEgTNKJKBAiFMRI0NYCBxmmoFDWQCY5kqsshc1mBeAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA-YSffzPn__rl_e7X_vd_n37v94XH77v____f_-7___2b4LwAAmChUQQlgQABAoGEECAAQRhABQAAgAASAoAIAQBAE5AgAHWEwAAAIAAQAAAAAggABAAAJAAhEAAABAIAQABAIAAwAAAgIACBAABABYgAQAAgGgIBAQQCAYAIGIVBpgSAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOIyNMAwfMEySnQZAEwRkZJsQm_CYeKQohQQ5AbFLMAdPAKBACQAdABcAGyARAAwgCdAFyANsAgcEADAA6AFcARAAwgCdAIHBgA4AOgAuADZAIgAYQBcgEDhAAcAHQA2QCIAGEAToAuQCBwoAGAFwAwgEDhgAIAwgEDhwAYAHQBEADCAJ0AgcBFcgACAMIBA4kADAIgAYQCBxQAKADoAiABhAE6AQO.f_wACHwAAAAA&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0gb5aIMTitPL-5VA41a2eK5&cachebuster=937398.3777130881";
+var ftKeyword_9331301="";
+var ftCustom_9331301="";
+var ftSection_9331301="";
+var ftSegment_9331301="";
+var ftSegmentList_9331301=[];
+var ftRuleMatch_9331301="0";
+var ftTimestamp_9331301="1763918685";
+var ftGeoC2_9331301="es";
+var ftGeoState_9331301="m";
+var ftGeoCity_9331301="madrid";
+var ftISP_9331301="digi spain telecom sl";
+var ftSpeed_9331301="broadband";
+var ftConnType_9331301="wifi";
+var ftDMA_9331301="-1";
+var ftLong_9331301="-3.7";
+var ftLat_9331301="40.38";
+var ftPostal_9331301="28026";
+var ftTimeZone_9331301="+100";
+var ftMobileCarrier_9331301="";
+var ftImp9331301 = {};
+ftImp9331301.privacy = "x";
+ftImp9331301.guidAge = "117";
+ftImp9331301.impID = "B59EC4A0-AAE9-4131-1CA6-39DC2E7DF87B";
+ftImp9331301.duid = "FT:641987B30C840A";
+
+ftImp9331301.ft_tpplid = "";
+ftImp9331301.ft_c = {};
+ftImp9331301.gdpr = "1";
+ftImp9331301.gdpr_consent = "CQbVoRgQbVoRgAcABBESCGFsAP_gAEPgACiQLxtR_C5ebWli-TZUIbtkaYwP55gj4kQhBgaIkWwFwBOG7BgGB2EwNARYJiACGBAAkiDBAQNlHABUAQAAAIgBiSCMYEyEgTNKJKBAiFMRI0NYCBxmmoFDWQCY5kqsshc1mBeAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA-YSffzPn__rl_e7X_vd_n37v94XH77v____f_-7___2b4LwAAmChUQQlgQABAoGEECAAQRhABQAAgAASAoAIAQBAE5AgAHWEwAAAIAAQAAAAAggABAAAJAAhEAAABAIAQABAIAAwAAAgIACBAABABYgAQAAgGgIBAQQCAYAIGIVBpgSAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOIyNMAwfMEySnQZAEwRkZJsQm_CYeKQohQQ5AbFLMAdPAKBACQAdABcAGyARAAwgCdAFyANsAgcEADAA6AFcARAAwgCdAIHBgA4AOgAuADZAIgAYQBcgEDhAAcAHQA2QCIAGEAToAuQCBwoAGAFwAwgEDhgAIAwgEDhwAYAHQBEADCAJ0AgcBFcgACAMIBA4kADAIgAYQCBxQAKADoAiABhAE6AQO.f_wACHwAAAAA";
+ftImp9331301.gdpr_pd = "";
+ftImp9331301.oob_consent = "";
+ftImp9331301.gdprStoredConsent = "";
+ftImp9331301.us_privacy = "!!US_PRIVACY!";
+ftImp9331301.gpc = "";
+
+ftImp9331301.jsAppend = "1";
+var ftCreativeId_9331301 = "5737387";
+(function(){var tag=document.getElementById("ft_servedby_9331301")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m9331301";js.setAttribute("name","ftscript_m9331301");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9331301");
+
